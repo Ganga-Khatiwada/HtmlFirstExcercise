@@ -1,0 +1,14 @@
+div{
+	margin-left: 450px;
+}
+body{
+	background-color: #e3e3e3;
+	font-family: sans-serif;
+	font-style: bold;
+}
+blockquote{
+	border:1px solid white;
+	width: 550px;
+	text-align: center;
+	margin-left: 0;
+}
